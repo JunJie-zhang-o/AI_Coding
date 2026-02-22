@@ -1,0 +1,4 @@
+interface:
+  display_name: "Todo+ TODO Spec"
+  short_description: "Strict Todo+ conventions for root TODO"
+  default_prompt: "Read and generate root TODO using Todo+ syntax with normalization."
