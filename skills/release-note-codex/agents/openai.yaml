@@ -1,0 +1,4 @@
+interface:
+  display_name: "Software Release Note"
+  short_description: "按模块归类并生成标准化软件版本发布说明Markdown文档"
+  default_prompt: "Use $release-note to draft a structured software release note in Chinese Markdown."
