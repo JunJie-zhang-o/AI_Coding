@@ -18,5 +18,13 @@
     {
       "text": "Rules: scope is required (use * for multiple scopes); subject uses imperative present tense, starts lowercase, has no trailing '.', and stays within 20 words; body explains motivation and contrasts with previous behavior; footer is only for BREAKING CHANGE: and/or issue references like Closes #123; output only the final commit message text with no markdown fences or extra commentary."
     }
-  ]
+  ],
+  "github.copilot.chat.mcp.servers": {
+    "doc_generator": {
+      "command": "${workspaceFolder}/.venv/bin/python",
+      "args": [
+        "${workspaceFolder}/doc_generater/doc_gen.py"
+      ]
+    }
+  }
 }
