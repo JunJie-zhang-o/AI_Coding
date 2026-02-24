@@ -1,0 +1,10 @@
+{
+  "github.copilot.chat.mcp.servers": {
+    "doc_generator": {
+      "command": "${workspaceFolder}/.venv/bin/python",
+      "args": [
+        "${workspaceFolder}/doc_generater/doc_gen.py"
+      ]
+    }
+  }
+}
