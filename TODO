@@ -9,4 +9,4 @@ SKILLS:
 
 PIPELINES:
     ☐ PLAN 生成TODO, 
-    ☐ 读取, 一次完成一个TODO, 然后提交commit, 修改TODO
+    ☐ 读取, 一次完成一个TODO, 然后交互询问review后提交commit, 修改TODO
