@@ -18,6 +18,7 @@ SKILLS:
     ☐ CI生成器
     ☐ README生成器
     ☐ TAG对比以生成CHANGELOG.md
+    ☐ 善用code-review ai可以发现很多不规范的问题
 
 PIPELINES:
     ☐ PLAN 生成TODO, 
