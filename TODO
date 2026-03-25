@@ -21,6 +21,7 @@ SKILLS:
     ☐ README生成器
     ☐ TAG对比以生成CHANGELOG.md
     ☐ 善用code-review ai可以发现很多不规范的问题
+    ☐ 找一个 可以从git logs中罗列出来提交日志 并且总结为changelog的skills
 
 PIPELINES:
     ☐ PLAN 生成TODO, 
